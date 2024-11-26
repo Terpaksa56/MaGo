@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Impact
-Template URL: https://bootstrapmade.com/impact-bootstrap-business-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+"Mago: Mahasiswa Go - A smart tech project by Business Statistics students! 🚀 This interactive display combines HTML, CSS, and Bootstrap 5 for a sleek and modern design. Empowering learning through innovation. 💻✨ #TechForEducation #BootstrapProject #StudentInnovation"
